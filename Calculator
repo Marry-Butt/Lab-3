@@ -6,3 +6,5 @@ cout<<"The addition of two numbers is"<< a+b <<endl;
 cout<<"The difference of two numbers is"<< a-b <<endl;
 
 cout<<"The product of two numbers is"<< a*b <<endl;
+
+cout<<"The division of two numbers is"<< a/b <<endl;
