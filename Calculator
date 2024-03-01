@@ -2,3 +2,9 @@ cout<<"My name is":<<"Muhammad Umair Butt";
 cout<<"My roll number is":<<"23-ST-039";
 
 cout<<"The addition of two numbers is"<< a+b <<endl;
+
+cout<<"The difference of two numbers is"<< a-b <<endl;
+
+cout<<"The product of two numbers is"<< a*b <<endl;
+
+cout<<"The division of two numbers is"<< a/b <<endl;
