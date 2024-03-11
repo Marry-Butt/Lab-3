@@ -1,5 +1,5 @@
-cout<<"My name is":<<"Muhammad Umair Butt";
-cout<<"My roll number is":<<"23-ST-039";
+cout<<"My name is":<<"Abdul Waheed";
+cout<<"My roll number is":<<"23-ST-040";
 
 cout<<"The addition of two numbers is"<< a+b <<endl;
 
